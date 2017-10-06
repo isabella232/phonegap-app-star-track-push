@@ -1,6 +1,6 @@
 # Star Track
 
-A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
+A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/).
 
 ## Previewing the app
 
